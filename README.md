@@ -24,6 +24,6 @@
 _python3 CLSTER.py_
 
 
-** Required libraries**
+**Required libraries**
 
 requests
