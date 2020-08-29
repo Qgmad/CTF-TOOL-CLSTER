@@ -22,3 +22,8 @@
 **To run use the command:**
 
 _python3 CLSTER.py_
+
+
+** Required libraries**
+
+requests
