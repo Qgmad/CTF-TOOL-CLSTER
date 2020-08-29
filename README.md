@@ -37,5 +37,6 @@ _python3 CLSTER.py_
 
 requests
 
-*Can be instaled by:
+* Can be instaled by:
+
    _pip3 install requests_
