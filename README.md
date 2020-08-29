@@ -19,11 +19,22 @@
 
 * **All the validated and working links are shown on the display.**
 
-**To run use the command:**
+**To run use the following commands:**
+
+_git clone https://github.com/Qgmad/CTF-TOOL-CLSTER.git_
+
+_cd CTF-TOOL-CLSTER/_
+
+_chmod +x CLSTER.py_
 
 _python3 CLSTER.py_
 
 
+![Screenshot](https://drive.google.com/file/d/1PIWxTFSZSGBNW9z44RjED0fwkjt8pFco)
+
 **Required libraries**
 
 requests
+
+*Can be instaled by:
+   _pip3 install requests_
