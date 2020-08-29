@@ -1,10 +1,10 @@
 # CTF-TOOL-CLSTER
-###CLSTR or Case-sensitive LinkS TesteR
+### CLSTR or Case-sensitive LinkS TesteR
 
-###Built on Python 3
+### Built on Python 3
 
 
-##Usage:
+## Usage:
 * **Write the initial part of the link that you don't want to add before the test string in host.**
    
    Example:
