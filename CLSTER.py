@@ -1,5 +1,5 @@
 import requests
-#write the initial part of the link that you don't want to add before the test string in host:
+#write the initial part of the link that you want to add before the test string in host:
 host = "https://www.pastebin.com/"    
  
 #Write the string you want to test for every possible combination of upper and lower case letters without changing their position: 
