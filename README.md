@@ -30,7 +30,8 @@ _chmod +x CLSTER.py_
 _python3 CLSTER.py_
 
 
-![Screenshot](https://drive.google.com/file/d/1PIWxTFSZSGBNW9z44RjED0fwkjt8pFco)
+![Screenshot](https://drive.google.com/uc?export=view&id=1PIWxTFSZSGBNW9z44RjED0fwkjt8pFco)
+
 
 **Required libraries**
 
