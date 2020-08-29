@@ -5,7 +5,7 @@
 
 
 ## Usage:
-* **Write the initial part of the link that you don't want to add before the test string in host.**
+* **Write the initial part of the link that you want to add before the test string in host.**
    
    Example:
    host = "https://www.pastebin.com/"    
